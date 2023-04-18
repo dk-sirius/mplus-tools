@@ -1,0 +1,13 @@
+package com.dksirius.mplustools;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class MplusToolsApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
